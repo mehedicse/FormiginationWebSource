@@ -2518,3 +2518,7 @@ ul.side-tabs {
 .side-tabs {
 	display: block;
 }
+.labelWidth{
+    width:10%;
+    display:inline;
+}
