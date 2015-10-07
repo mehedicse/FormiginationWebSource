@@ -11,8 +11,11 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            MongoConnect mong = new MongoConnect();
-            mong.MongoDB();
+            //MongoConnect mong = new MongoConnect();
+            //mong.MongoDB();
+            TestMongo test = new TestMongo();
+            test.SaveTestDocument();
+            test.FindData();
         }
     }
 }
