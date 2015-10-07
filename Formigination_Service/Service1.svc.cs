@@ -40,6 +40,16 @@ namespace Formigination_Service
             return "";
         }
 
+        #region Register
+
+        public string Register(string email, string pass)
+        {
+
+            
+            return "";
+        }
+        #endregion
+
 
         public string PostSampleMethod(string post)
         {
