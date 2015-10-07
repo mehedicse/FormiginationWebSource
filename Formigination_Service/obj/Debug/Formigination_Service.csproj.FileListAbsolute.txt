@@ -11,3 +11,16 @@ H:\Formigination_Web\Formigination_Service\bin\MongoDB.Bson.dll
 H:\Formigination_Web\Formigination_Service\bin\Formigination_DataService.pdb
 H:\Formigination_Web\Formigination_Service\bin\MongoDB.Driver.xml
 H:\Formigination_Web\Formigination_Service\bin\MongoDB.Bson.xml
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\bin\WcfService1.dll.config
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\bin\WcfService1.dll
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\bin\WcfService1.pdb
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\bin\Formigination_DataService.dll
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\bin\MongoDB.Driver.dll
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\bin\MongoDB.Driver.Core.dll
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\bin\MongoDB.Bson.dll
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\bin\Formigination_DataService.pdb
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\bin\MongoDB.Driver.xml
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\bin\MongoDB.Bson.xml
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\obj\Debug\Formigination_Service.csprojResolveAssemblyReference.cache
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\obj\Debug\WcfService1.dll
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_Service\obj\Debug\WcfService1.pdb
