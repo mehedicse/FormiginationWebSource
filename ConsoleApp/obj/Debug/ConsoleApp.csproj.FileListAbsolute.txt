@@ -37,3 +37,6 @@ C:\Users\Sobuj\Source\Repos\FormiginationWebSource\ConsoleApp\bin\Debug\MongoDB.
 C:\Users\Sobuj\Source\Repos\FormiginationWebSource\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
 C:\Users\Sobuj\Source\Repos\FormiginationWebSource\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\Sobuj\Source\Repos\FormiginationWebSource\ConsoleApp\obj\Debug\ConsoleApp.pdb
+H:\Formigination_Web\FormiginationWebSource\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+H:\Formigination_Web\FormiginationWebSource\ConsoleApp\obj\Debug\ConsoleApp.exe
+H:\Formigination_Web\FormiginationWebSource\ConsoleApp\obj\Debug\ConsoleApp.pdb
