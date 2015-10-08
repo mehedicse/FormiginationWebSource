@@ -32,3 +32,4 @@ C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_DataService\bin
 C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_DataService\bin\Debug\MongoDB.Driver.Legacy.xml
 C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_DataService\obj\Debug\Formigination_DataService.dll
 C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_DataService\obj\Debug\Formigination_DataService.pdb
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_DataService\obj\Debug\Formigination_DataService.csprojResolveAssemblyReference.cache
