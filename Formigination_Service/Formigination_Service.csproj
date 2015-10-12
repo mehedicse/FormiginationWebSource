@@ -61,22 +61,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="AuthenticationService.svc" />
-    <Content Include="ProfileService.svc" />
+    <Content Include="Service1.svc" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="AuthenticationService.svc.cs">
-      <DependentUpon>AuthenticationService.svc</DependentUpon>
+    <Compile Include="Service1.svc.cs">
+      <DependentUpon>Service1.svc</DependentUpon>
     </Compile>
-    <Compile Include="IAuthenticationService.cs" />
-    <Compile Include="IProfileService.cs" />
-    <Compile Include="ProfileService.svc.cs">
-      <DependentUpon>ProfileService.svc</DependentUpon>
-    </Compile>
+    <Compile Include="IService1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

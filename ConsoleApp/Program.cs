@@ -13,7 +13,9 @@ namespace ConsoleApp
         {
             //MongoConnect mong = new MongoConnect();
             //mong.MongoDB();
-          
+            TestMongo test = new TestMongo();
+            test.SaveTestDocument();
+            test.FindData();
         }
     }
 }
