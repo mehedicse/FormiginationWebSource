@@ -9,10 +9,11 @@ namespace Formigination_DataService
 {
    public class MongoConnect
     {
-        public static IMongoDatabase MongoDB()
+        public  static   IMongoDatabase  MongoDB()
         {
-            MongoClient client = new  MongoClient("mongodb://sobuj:azbd123@ds053312.mongolab.com:53312");
+            IMongoClient client = new  MongoClient("mongodb://sobuj:azbd123@ds053312.mongolab.com:53312");
            var db= client.GetDatabase("student");
+        
             return db;
 
         }
