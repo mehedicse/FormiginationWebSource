@@ -31,7 +31,11 @@ namespace Formigination_Service
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
-        // TODO: Add your service operations here
+        #region Registration
+        [OperationContract]
+        [WebInvoke(Method = "GET", ResponseFormat = WebMessageFormat.Json, RequestFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped, UriTemplate = "Register/?email={email}&pass={pass}")]
+        string Register(string email, string pass);
+        #endregion
     }
 
 
