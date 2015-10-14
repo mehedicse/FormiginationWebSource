@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MongoDB.Bson;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,7 @@ namespace Formigination_DataService.Entities
 {
     public class Profile
     {
+        public ObjectId _id { get; set; }
         public int ProfileId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }

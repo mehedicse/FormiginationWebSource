@@ -9,8 +9,14 @@ namespace Formigination_DataService
 {
     public class ProfileDataService
     {
+        
         public string SaveProfile(Profile objProfile)
         {
+            var db = MongoConnect.MongoDB();
+            var collection = db.GetCollection<Profile>("Profile");
+           
+            collection.InsertOneAsync(objProfile);
+            var id = objProfile._id;
             return "";
         }
     }

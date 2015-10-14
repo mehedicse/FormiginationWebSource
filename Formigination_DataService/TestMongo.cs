@@ -12,35 +12,45 @@ namespace Formigination_DataService
     public class TestMongo
     {
         IMongoDatabase db = MongoConnect.MongoDB();
-        public void SaveTestDocument()
+        public async  Task SaveTestDocument()
         {
 
-            var collection = db.GetCollection<StudentProfile>("StudentProfile");
+            var collection = db.GetCollection<BsonDocument>("StudentProfile");
+
+            var document = new BsonDocument()
+            {
+                { "StudentName" , "Sobuj" },
+                { "StudentId" , 2 },
+                { "Address", "Pabna" }
+            };
+
             var st = new StudentProfile()
             {
-                StudentId = 1,
-                StudentName = "Sobuj"
-            };
-            collection.InsertOneAsync(st);
 
+                StudentName = "Sobuj",
+                StudentId = 2,
+                Address = "Pabna"
+            };
+            await  collection.InsertOneAsync(document);
+            var id = st._id;
 
 
         }
 
         public void FindData()
         {
-            
+
 
             var collection = db.GetCollection<BsonDocument>("StudentProfile");
             var filter = new BsonDocument();
-            
-            var result =   collection.Find(filter).ToListAsync();
+
+            var result = collection.Find(filter).ToListAsync();
 
 
         }
 
     }
 
-    
+
 
 }
