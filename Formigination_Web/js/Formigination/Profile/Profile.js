@@ -8,9 +8,9 @@ var profileManager = {
     saveProfileInfo: function () {
 
 
-        var jsonParam = profileHelper.createObjOfProfile();
-        var serviceUrl = "Service1.svc/SaveOrUpdateProfile/";
-        AjaxManager.GetJson(serviceUrl, jsonParam, function (data) { alert(data); }, function (data) { alert(data); });
+        var jsonParam = "profile:" + profileHelper.createObjOfProfile();
+        var serviceUrl = "ProfileService.svc/SaveOrUpdateProfile/";
+        AjaxManager.SendJson2(serviceUrl, jsonParam, function (data) { alert(data); }, function (data) { alert(data); });
 
     }
 };
