@@ -59,6 +59,7 @@
     <Compile Include="Entities\Profile.cs" />
     <Compile Include="Entities\StudentProfile.cs" />
     <Compile Include="MongoConnect.cs" />
+    <Compile Include="ProfileDataService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestMongo.cs" />
   </ItemGroup>

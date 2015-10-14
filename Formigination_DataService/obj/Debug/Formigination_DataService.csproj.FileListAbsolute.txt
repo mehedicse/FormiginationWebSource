@@ -44,3 +44,4 @@ H:\Formigination_Web\FormiginationWebSource\Formigination_DataService\bin\Debug\
 H:\Formigination_Web\FormiginationWebSource\Formigination_DataService\obj\Debug\Formigination_DataService.csprojResolveAssemblyReference.cache
 H:\Formigination_Web\FormiginationWebSource\Formigination_DataService\obj\Debug\Formigination_DataService.dll
 H:\Formigination_Web\FormiginationWebSource\Formigination_DataService\obj\Debug\Formigination_DataService.pdb
+C:\Users\Sobuj\Source\Repos\FormiginationWebSource\Formigination_DataService\obj\Debug\Formigination_DataService.csprojResolveAssemblyReference.cache
