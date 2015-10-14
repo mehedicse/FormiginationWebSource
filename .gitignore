@@ -41,3 +41,31 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+ConsoleApp/obj/Debug/ConsoleApp.csprojResolveAssemblyReference.cache
+*.suo
+.vs/Formigination_Web/v14/.suo
+*.pdb
+ConsoleApp/bin/Debug/Formigination_DataService.dll
+*.pdb
+ConsoleApp/obj/Debug/ConsoleApp.csprojResolveAssemblyReference.cache
+*.suo
+ConsoleApp/bin/Debug/ConsoleApp.exe
+*.dll
+ConsoleApp/bin/Debug/Formigination_DataService.dll
+*.cache
+ConsoleApp/obj/Debug/ConsoleApp.exe
+*.dll
+Formigination_DataService/obj/Debug/Formigination_DataService.dll
+*.pdb
+Formigination_Service/bin/Formigination_DataService.pdb
+*.exe
+*.pdb
+.vs/Formigination_Web/v14/.suo
+*.suo
+ConsoleApp/bin/Debug/ConsoleApp.exe
+*.pdb
+ConsoleApp/obj/Debug/ConsoleApp.csprojResolveAssemblyReference.cache
+*.dll
+Formigination_DataService/bin/Debug/Formigination_DataService.pdb
+*.dll
+Formigination_Service/bin/Formigination_DataService.pdb
