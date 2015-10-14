@@ -56,6 +56,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Profile.cs" />
     <Compile Include="Entities\StudentProfile.cs" />
     <Compile Include="MongoConnect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
